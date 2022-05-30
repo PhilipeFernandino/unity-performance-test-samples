@@ -1,0 +1,3 @@
+Abaixo, o resultado dos testes, documentados no Notion
+* [Encontrar objeto mais perto](https://freezing-primula-917.notion.site/An-lise-de-performance-Encontrar-Mais-Perto-a5e43b6fcc9b45f7bfc2877f710b007d)
+* [Topologia de alta resolução vs Topologia de baixa resolução](https://freezing-primula-917.notion.site/An-lise-de-performance-com-topologia-de-alta-e-baixa-qualidade-f06e692ea20b416dac01a7f0aa98baf9)
